@@ -116,11 +116,7 @@ Click WA logo to Join Support Group 👇
 
 | Wallpaper Plugin|✅|1.4|
 
-<div align="center">
 
-<img src="https://i.imgur.com/u5e34vY.jpeg" />
-
-  </div>
 
 | Command 💻 |Description ℹ️|
 
@@ -254,11 +250,7 @@ Click WA logo to Join Support Group 👇
 
 | .wallpaper| Sends random high resolution wallpaper.|
 
-<div align="center">
 
-<img src="https://i.imgur.com/59y0s3S.jpeg" />
-
-  </div>
 
 ### XMedia Plugin Commands 🛠️
 
@@ -340,11 +332,7 @@ Click WA logo to Join Support Group 👇
 
 | .scam stop| Stops fake actions.|
 
-<div align="center">
 
-<img src="https://i.imgur.com/u5e34vY.jpeg" />
-
-  </div>
 
 ### Deep AI Commands 🛠️
 
